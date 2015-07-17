@@ -20,3 +20,5 @@ gemfile:
   - gemfiles/rails32.gemfile
   - gemfiles/rails40.gemfile
   - gemfiles/rails42.gemfile
+  - gemfiles/rails40.sprockets2.gemfile
+  - gemfiles/rails42.sprockets2.gemfile

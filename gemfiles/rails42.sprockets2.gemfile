@@ -6,9 +6,9 @@ gem "rb-fsevent", :require => false
 gem "ruby_gntp", :require => false
 gem "guard"
 gem "guard-test"
-gem "rails", "~> 4.0.0"
-gem "sass-rails"
-gem "sprockets", ">=3"
+gem "rails", "~> 4.2.0"
+gem "sass-rails", "~> 5.0"
+gem "sprockets", "< 3"
 
 group :test do
   gem "mocha"
